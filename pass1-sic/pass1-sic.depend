@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1538366613 source:e:\ss-35\pass1-sic\main.c
+	"pass1.h"
+
+1538364477 e:\ss-35\pass1-sic\pass1.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1538369229 source:e:\ss-35\pass1-sic\pass1.c
+	"pass1.h"
+
+1538370744 source:e:\ss-35\pass1-sic\pass2.c
+	"pass1.h"
+

@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1539535515 source:g:\5th semester\sslab\sicxe\main.c
+	"sicxe.h"
+
+1539535464 g:\5th semester\sslab\sicxe\sicxe.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1539568154 source:g:\5th semester\sslab\sicxe\pass1.c
+	"sicxe.h"
+
+1539578192 source:e:\ss-35\sicxe\main.c
+	"sicxe.h"
+
+1539579462 e:\ss-35\sicxe\sicxe.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1539578519 source:e:\ss-35\sicxe\pass1.c
+	"sicxe.h"
+
+1539578763 source:e:\ss-35\sicxe\wordcount.c
+	"sicxe.h"
+

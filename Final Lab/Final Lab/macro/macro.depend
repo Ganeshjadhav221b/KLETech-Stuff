@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1543228952 source:h:\new folder\ss lab\final lab\macro\macro.c
+	<stdio.h>
+	<stdlib.h>
+
+1542905499 h:\new folder\ss lab\final lab\macro\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1543113808 source:h:\new folder\ss lab\final lab\macro\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1542905554 h:\new folder\ss lab\final lab\macro\macro.c
+	<stdio.h>
+	<stdlib.h>
+

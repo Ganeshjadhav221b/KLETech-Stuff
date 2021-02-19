@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1542705345 source:h:\new folder\ss lab\ll\linkload\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1542673259 h:\new folder\ss lab\ll\linkload\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1542706062 source:h:\new folder\ss lab\ll\linkload\pass1.c
+	<stdio.h>
+	"header.h"
+
+1542705952 source:h:\new folder\ss lab\ll\linkload\pass2.c
+	"header.h"
+

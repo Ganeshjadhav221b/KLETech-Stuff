@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1540177107 source:e:\ss-35\sic-ip\main.c
+	"sic.h"
+
+1540178043 e:\ss-35\sic-ip\sic.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1540185151 source:e:\ss-35\sic-ip\pass1.c
+	"sic.h"
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1543239401 source:h:\new folder\ss lab\final lab\first\main.c
+	<stdio.h>
+	<stdlib.h>
+	"first.c"
+	"second.c"
+
+1543239351 h:\new folder\ss lab\final lab\first\header.h
+	<stdio.h>
+	<string.h>
+
+1543239488 source:h:\new folder\ss lab\final lab\first\first.c
+	<stdio.h>
+	<stdlib.h>
+
+1543239488 h:\new folder\ss lab\final lab\first\first.c
+	<stdio.h>
+	<stdlib.h>
+
+1543239492 h:\new folder\ss lab\final lab\first\second.c
+	<stdio.h>
+	<stdlib.h>
+

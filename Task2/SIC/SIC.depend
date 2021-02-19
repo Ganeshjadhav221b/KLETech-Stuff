@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1539449018 source:g:\5th semester\sslab\sic\main.c
+	"sic.h"
+
+1539453968 source:g:\5th semester\sslab\sic\pass1.c
+	"sic.h"
+
+1539448971 g:\5th semester\sslab\sic\sic.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1539452793 source:g:\5th semester\sslab\sic\pass2.c
+	"sic.h"
+

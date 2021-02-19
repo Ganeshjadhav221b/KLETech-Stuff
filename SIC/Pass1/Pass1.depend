@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1538972979 source:h:\new folder\ss lab\sic\pass1\pass1.c
+	"pass1.h"
+
+1538973008 h:\new folder\ss lab\sic\pass1\pass1.h
+	<stdio.h>
+	<stdlib.h>
+
+1538973081 source:h:\new folder\ss lab\sic\pass1\main.c
+	"pass1.h"
+

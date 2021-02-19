@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1543393089 source:h:\new folder\ss lab\final lab\linkloader\main.c
+	"header.h"
+	"first.c"
+
+1543393021 h:\new folder\ss lab\final lab\linkloader\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+
+1543416368 h:\new folder\ss lab\final lab\linkloader\first.c
+	"header.h"
+

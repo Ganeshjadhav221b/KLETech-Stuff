@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1540177107 source:e:\ss-35\sic-ip\main.c
+	"sic.h"
+
+1540178043 e:\ss-35\sic-ip\sic.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1540185151 source:e:\ss-35\sic-ip\pass1.c
+	"sic.h"
+
+1541952805 source:g:\5th semester\sslab\sic-equ-exp\main.c
+	"sic.h"
+
+1541949289 g:\5th semester\sslab\sic-equ-exp\sic.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1541914177 source:g:\5th semester\sslab\sic-equ-exp\pass1.c
+	"sic.h"
+
+1541936832 source:g:\5th semester\sslab\sic-equ-exp\functions.c
+	"sic.h"
+
+1541951863 source:g:\5th semester\sslab\sic-equ-exp\pass2.c
+	"sic.h"
+
+1541957138 source:g:\5th semester\sslab\sic-equ-exp\objectprogram.c
+	"sic.h"
+
+1541936834 source:h:\new folder\ss lab\sic-equ-exp - copy\functions.c
+	"sic.h"
+
+1541949290 h:\new folder\ss lab\sic-equ-exp - copy\sic.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1541952806 source:h:\new folder\ss lab\sic-equ-exp - copy\main.c
+	"sic.h"
+
+1541958456 source:h:\new folder\ss lab\sic-equ-exp - copy\objectprogram.c
+	"sic.h"
+
+1541914178 source:h:\new folder\ss lab\sic-equ-exp - copy\pass1.c
+	"sic.h"
+
+1541951864 source:h:\new folder\ss lab\sic-equ-exp - copy\pass2.c
+	"sic.h"
+

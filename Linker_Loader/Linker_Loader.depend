@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1542526161 source:d:\notes\5th sem\ss\lab\linker_loader\link.c
+	"link.h"
+
+1542526163 d:\notes\5th sem\ss\lab\linker_loader\link.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542526163 source:d:\notes\5th sem\ss\lab\linker_loader\main.c
+	"link.h"
+
+1542526783 source:d:\notes\5th sem\ss\lab\evaluation\linker_loader\link.c
+	"link.h"
+
+1542526720 d:\notes\5th sem\ss\lab\evaluation\linker_loader\link.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542531913 source:d:\notes\5th sem\ss\lab\evaluation\linker_loader\main.c
+	"link.h"
+
+1542531914 source:e:\5th-sem\system software\linker_loader\main.c
+	"link.h"
+
+1542526722 e:\5th-sem\system software\linker_loader\link.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542537176 source:e:\5th-sem\system software\linker_loader\link.c
+	"link.h"
+
+1542531914 source:i:\new code\linker_loader\main.c
+	"link.h"
+
+1542526722 i:\new code\linker_loader\link.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542544710 source:i:\new code\linker_loader\link.c
+	"link.h"
+
+1542531914 source:c:\users\apoorva\desktop\new code\linker_loader\main.c
+	"link.h"
+
+1542526722 c:\users\apoorva\desktop\new code\linker_loader\link.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542598149 source:c:\users\apoorva\desktop\new code\linker_loader\link.c
+	"link.h"
+
+1542599996 source:h:\new folder\ss lab\linker_loader\link.c
+	"link.h"
+
+1542526722 h:\new folder\ss lab\linker_loader\link.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542531914 source:h:\new folder\ss lab\linker_loader\main.c
+	"link.h"
+

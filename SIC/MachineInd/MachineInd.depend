@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1539680076 source:h:\new folder\ss lab\sic\machineind\literals.c
+	"literals.h"
+
+1539680095 h:\new folder\ss lab\sic\machineind\literals.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1539680154 source:h:\new folder\ss lab\sic\machineind\main.c
+	<stdio.h>
+	<stdlib.h>
+	"literals.c"
+
+1539680282 h:\new folder\ss lab\sic\machineind\literals.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
